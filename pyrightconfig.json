@@ -1,0 +1,7 @@
+{
+  "venvPath": "/Users/bhavyasangubhotla/Documents/pythonPrograms/TaxAssistant",
+  "venv": ".venv",
+  "extraPaths": [
+    "/Users/bhavyasangubhotla/Documents/pythonPrograms/TaxAssistant/.venv/lib/python3.14/site-packages"
+  ]
+}

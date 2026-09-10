@@ -1,0 +1,16 @@
+.git
+.github
+.venv
+.env
+venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.vscode/
+.idea/
+.DS_Store
+
+# Frontend dependencies and builds
+react-tax-assistant/node_modules/
+react-tax-assistant/dist/

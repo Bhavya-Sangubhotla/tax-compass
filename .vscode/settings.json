@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "/Users/bhavyasangubhotla/Documents/pythonPrograms/TaxAssistant/.venv/bin/python",
+  "python.analysis.extraPaths": [
+    "/Users/bhavyasangubhotla/Documents/pythonPrograms/TaxAssistant/.venv/lib/python3.14/site-packages"
+  ]
+}
